@@ -36,3 +36,8 @@
 
 // TX  - 4.7kΩ-/\/\/\- 3V3 [UNUSED]-AVAILABLE FOR USE
 
+[RADIO](https://downloads.arduino.cc/libraries/github.com/mathertel/Radio-2.0.0.zip)
+
+[OLED](https://downloads.arduino.cc/libraries/github.com/greiman/SSD1306Ascii-1.3.5.zip)
+
+[IR REMOTE](https://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-3.9.0.zip)
