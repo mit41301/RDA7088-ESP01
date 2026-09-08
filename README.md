@@ -23,4 +23,5 @@
 [OLED](https://downloads.arduino.cc/libraries/github.com/greiman/SSD1306Ascii-1.3.5.zip)\
 [IR REMOTE](https://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-3.9.0.zip)\
 
-[EFY](https://www.electronicsforu.com/electronics-projects/diy-stereo-fm-radio)
+[EFY - ESP01](https://www.electronicsforu.com/electronics-projects/diy-stereo-fm-radio)\
+[EFY - RDA7088](https://www.electronicsforu.com/electronics-projects/simple-stereo-fm-radio-receiver-circuit)
